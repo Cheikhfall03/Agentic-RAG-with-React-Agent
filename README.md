@@ -70,7 +70,7 @@ Voici une visualisation du flux de travail de l'agent, générée avec LangGraph
 
 Vous pouvez tester l'application déployée directement ici :
 
-**[🚀 Accéder à AgenticRAGChat]((https://agentic-rag-with-react-agent.streamlit.app/))** 
+**[🚀 Accéder à AgenticRAGChat]()** *(https://agentic-rag-with-react-agent.streamlit.app/)*
 
 ## ⚙️ Flux de Travail de l'Utilisateur
 
