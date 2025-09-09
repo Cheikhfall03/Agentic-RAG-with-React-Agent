@@ -55,7 +55,7 @@ AgenticRAGChat/
 
 Voici une visualisation du flux de travail de l'agent, générée avec LangGraph.
 
-*(Remplacez cette ligne par votre image en utilisant la syntaxe Markdown : `![Diagramme du Graphe](graph.png)`)*
+*(Remplacez cette ligne par votre image en utilisant la syntaxe Markdown : ![Diagramme du Graphe](intelligent_graph.png))*
 
 ## 🤖 Modèles et Composants Techniques
 
@@ -70,7 +70,7 @@ Voici une visualisation du flux de travail de l'agent, générée avec LangGraph
 
 Vous pouvez tester l'application déployée directement ici :
 
-**[🚀 Accéder à AgenticRAGChat](#)** *(Remplacez par votre URL de déploiement)*
+**[🚀 Accéder à AgenticRAGChat](#)** *(https://agentic-rag-with-react-agent.streamlit.app/)*
 
 ## ⚙️ Flux de Travail de l'Utilisateur
 
