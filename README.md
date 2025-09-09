@@ -55,7 +55,7 @@ AgenticRAGChat/
 
 Voici une visualisation du flux de travail de l'agent, générée avec LangGraph.
 
-*(Remplacez cette ligne par votre image en utilisant la syntaxe Markdown : ![Diagramme du Graphe](intelligent_graph.png))*
+![Diagramme du Graphe](intelligent_graph.png))*
 
 ## 🤖 Modèles et Composants Techniques
 
