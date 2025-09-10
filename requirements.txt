@@ -17,3 +17,4 @@ pypdf
 langchain-tavily
 rank_bm25
 arxiv
+unstructured
